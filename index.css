@@ -1,0 +1,21 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border: 7px rgb(199, 194, 194);
+  border-style: none;
+  border-bottom-style: dotted;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
+
+img {
+  border-radius: 50px;
+}
+a {
+  color: blue;
+}
